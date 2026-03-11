@@ -93,3 +93,4 @@ jupyter notebook social_media_ad_analysis.ipynb
 - Optimize ad spend across platforms and timing windows  
 - Simulate revenue potential for different categories
 
+
